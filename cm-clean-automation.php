@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: CM Clean Automation
- * Plugin URI:  https://cmetechsa.co.za/wp-clean-automation
+ * Plugin URI:  https://cmetech.co.za/wp-clean-automation
  * Description: A WordPress plugin that disables commenting, deletes the "Hello Dolly" and "Akismet Anti-Spam: Spam Protection" plugins, and performs other basic tasks.
  * Version:     1.0
- * Author:      tino[at]cmetechsa.co.za
- * Author URI:  https://cmetechsa.co.za
+ * Author:      tino[at]cmetech.co.za
+ * Author URI:  https://cmetech.co.za
  * License:     GPL2
  */
 
