@@ -8,7 +8,7 @@
  * Author URI:  https://cmetech.co.za
  * License:     GPL2
  */
-define( 'MY_PLUGIN_VERSION', '1.0.1' )
+define( 'MY_PLUGIN_VERSION', '1.0.1' );
 
  // Define current version
 if ( ! defined( 'MY_PLUGIN_VERSION' ) ) {
